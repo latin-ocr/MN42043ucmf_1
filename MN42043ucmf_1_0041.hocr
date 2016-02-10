@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN42043ucmf_1_0041.png"; bbox 0 0 2060 3342; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 187 1078 613 1161">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 187 1078 613 1161">
+     <span class='ocr_line' id='line_1_1' title="bbox 187 1078 613 1161; baseline 0.009 -17"><span class='ocrx_word' id='word_1_1' title='bbox 187 1078 239 1144; x_wconf 90' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_2' title='bbox 261 1078 350 1146; x_wconf 79' lang='lat' dir='ltr'><strong>VITA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 371 1080 613 1161; x_wconf 78' lang='lat' dir='ltr'>SCRIPTISQUE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 57 1249 728 1376">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 57 1249 728 1376">
+     <span class='ocr_line' id='line_1_2' title="bbox 57 1249 728 1376; baseline -0.001 -9"><span class='ocrx_word' id='word_1_4' title='bbox 57 1249 349 1368; x_wconf 73' lang='grc' dir='ltr'>ΑΝΤΟΝΠ</span> <span class='ocrx_word' id='word_1_5' title='bbox 379 1281 728 1376; x_wconf 75' lang='lat' dir='ltr'>BARGENSIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 176 1608 672 1665">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 176 1608 672 1665">
+     <span class='ocr_line' id='line_1_3' title="bbox 176 1608 672 1665; baseline -0.002 -1"><span class='ocrx_word' id='word_1_6' title='bbox 176 1611 210 1664; x_wconf 90' lang='lat' dir='ltr'>D.</span> <span class='ocrx_word' id='word_1_7' title='bbox 229 1611 384 1664; x_wconf 81' lang='lat' dir='ltr'><strong>PLACIDI</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 406 1611 444 1665; x_wconf 91' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_9' title='bbox 464 1608 628 1664; x_wconf 88' lang='lat' dir='ltr'>LUGANO</span> <span class='ocrx_word' id='word_1_10' title='bbox 670 1625 672 1629; x_wconf 78' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 330 1757 473 1764">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 330 1757 473 1764">
+     <span class='ocr_line' id='line_1_4' title="bbox 330 1757 473 1764; baseline -0.007 -1"><span class='ocrx_word' id='word_1_11' title='bbox 330 1757 473 1764; x_wconf 81' lang='grc'>--.----</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1034 3342">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1034 3342">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1034 3342; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1034 3342; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
